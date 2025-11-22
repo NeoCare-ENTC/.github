@@ -76,17 +76,6 @@ The NeoCare system consists of three primary modules:
 ## Ethical Approval
 The project has received ethical clearance from the Ethics Review Committees of**University of Moratuwa** and **De Soysa Hospital for Women, Colombo**.
 
-## Reports and Documentation
-
-### Feasibility Report:
-- [Feasibility_Report.pdf](Documents/Feasibility Report.pdf)  
-
-### Monthly Progress Reports: 
-- **July 2025**: [July_Report.pdf](path_to_file)
-- **August 2025**: [August_Report.pdf](path_to_file)
-- **September 2025**: [September_Report.pdf](path_to_file)
-- **October 2025**: [October_Report.pdf](path_to_file)
-
 ## Team Members
 - **A.A.W.L.R. Amarasinghe**  
 - **M.K.I.G. Morawakgoda**  
