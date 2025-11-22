@@ -74,7 +74,7 @@ The NeoCare system consists of three primary modules:
 - **On-Device Processing**: Video data is processed directly on the mobile device to avoid cloud transmission of sensitive information.
 
 ## Ethical Approval
-The project has received ethical clearance from the Ethics Review Committees of**University of Moratuwa** and **De Soysa Hospital for Women, Colombo**.
+The project has received ethical clearance from the Ethics Review Committees of **University of Moratuwa** and **De Soysa Hospital for Women, Colombo**.
 
 ## Team Members
 - **A.A.W.L.R. Amarasinghe**  
