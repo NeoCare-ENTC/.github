@@ -73,10 +73,28 @@ The NeoCare system consists of three primary modules:
 - **Data Anonymization**: No facial videos are stored; only anonymized physiological data (HR, SpO2, jaundice status) is saved.
 - **On-Device Processing**: Video data is processed directly on the mobile device to avoid cloud transmission of sensitive information.
 
+## Ethical Approval
+The project has received ethical clearance from the Ethics Review Committees of**University of Moratuwa** and **De Soysa Hospital for Women, Colombo**.
+
+## Reports and Documentation
+
+### Feasibility Report:
+- [Feasibility_Report.pdf](path_to_file)  
+
+### Monthly Progress Reports: 
+- **July 2025**: [July_Report.pdf](path_to_file)
+- **August 2025**: [August_Report.pdf](path_to_file)
+- **September 2025**: [September_Report.pdf](path_to_file)
+- **October 2025**: [October_Report.pdf](path_to_file)
+
+## Team Members
+- **A.A.W.L.R. Amarasinghe**  
+- **M.K.I.G. Morawakgoda**  
+- **S.M.S.M.B. Abeyrathna**  
+- **U.M.Y.B. Alahakoon**  
+
 ## Future Work
 - **Dataset Expansion**: Expand the dataset to include more neonates from different demographic backgrounds.
 - **Model Optimization**: Further reduce model size for real-time mobile deployment, including pruning and quantization techniques.
 - **Clinical Validation**: Conduct clinical trials to validate the effectiveness of NeoCare in neonatal intensive care units (NICUs).
-
-
 
